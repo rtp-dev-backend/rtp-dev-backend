@@ -9,3 +9,5 @@ rtp-dev-backend/rtp-dev-backend is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 # Equipo de Desarrollo Backend RTP
+
+Cuenta donde se agregan los repositorios de los desarrollos propios de RTP
